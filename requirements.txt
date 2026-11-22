@@ -1,0 +1,6 @@
+pygame
+pillow
+numpy
+# optional:
+# opencv-python   # video support
+# rembg           # better background removal

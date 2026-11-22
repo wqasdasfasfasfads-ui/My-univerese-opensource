@@ -1,0 +1,20 @@
+# Secrets - NEVER commit your API key
+config.json
+.env
+
+# Your personal world and media
+world_save.json
+drop_here/*
+!drop_here/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
